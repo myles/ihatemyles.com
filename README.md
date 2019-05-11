@@ -1,5 +1,7 @@
 # I Hate Myles
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/daf18817-4a3a-402f-b9bb-4a38996b6624/deploy-status)](https://app.netlify.com/sites/ihatemyles/deploys)
+
 The source code for the [I Hate Myles](https://ihatemyles.com/) website.
 
 ## Colour Scheme
